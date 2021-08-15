@@ -25,7 +25,7 @@
 	h5[class="h5"] {font-size:15px !important; letter-spacing:-1px !important;}	
 	
 	/*** Container / Preheader 480px ***//* keep also these in all your layouts */
-	table[class="MCwrapper"] {width:460px !important;}
+	table[class="MCwrapper"] {width:1000px !important;}
 	table[class="hide"], td[class="hide"], img[class="hide"], p[class="hide"] {display:none !important;}
 
 	/*** Header-04 module 480px ***/
